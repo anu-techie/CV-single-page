@@ -19,7 +19,6 @@ Live Demo: 👉 [View the live project here](https://anu-techie.github.io/CV-sin
 
 ## Technologies Used
   - HTML
-Project Page URL : https://roadmap.sh/projects/single-page-cv
 
 ---
 
