@@ -19,7 +19,7 @@ Live Demo: 👉 [View the live project here](https://anu-techie.github.io/CV-sin
 ## Project URL
 
 For detailed project guidelines and ideas, visit:
-[https://roadmap.sh/projects/expense-tracker](https://roadmap.sh/projects/single-page-cv)
+[https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
 
 ## Acknowledgments
 
