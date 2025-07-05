@@ -6,8 +6,6 @@ Live Demo: 👉 [View the live project here](https://anu-techie.github.io/CV-sin
 
 >This project is a single page personal CV/resume website built with HTML only, focused on Clean structure, Better preview for sharing and seo.
 
----
-
 ## Features
   - **Semantic**ally correct HTML structure.
   - **Single-page layout** with clearly defined sections for education, skills, and career history.
@@ -15,25 +13,17 @@ Live Demo: 👉 [View the live project here](https://anu-techie.github.io/CV-sin
   - **OG tags** for better preview and sharing on social media platform.
   - **A favicon** linked in the head section.
 
----
-
 ## Technologies Used
   - HTML
-
----
 
 ## Project URL
 
 For detailed project guidelines and ideas, visit:
 [https://roadmap.sh/projects/expense-tracker](https://roadmap.sh/projects/single-page-cv)
 
----
-
 ## Acknowledgments
 
 This project was inspired by and developed following the excellent guidance from [roadmap.sh](https://roadmap.sh). Special thanks to their clear tutorials and project ideas.
-
----
 
 ## License
 
